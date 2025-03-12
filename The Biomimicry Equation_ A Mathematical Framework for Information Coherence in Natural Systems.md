@@ -229,6 +229,9 @@ where **dots denote time derivatives**. This is the **classic equation for a dam
 
 
 
+<img src="https://github.com/user-attachments/assets/3a0bdd90-e450-46bc-8f9c-56dd47fa7cba" width="500">
+
+
 This shows how the **stability of equilibria** can be verified by **analyzing** `V''(ϕ)` and the **damping term** – a **small calculation** that aligns with **known results** for **damped oscillators**.
 
 
@@ -317,6 +320,9 @@ So over **a few hundred microns**, `ϕ(x)` will **drop significantly**.
 
 Numerically integrating `Dϕ'' = s - kϕ` with, say, `s` as a **delta-function at `x = 0`**  
 (or a **point source boundary condition**) indeed yields an **exponential-like profile**.  
+
+
+<img src="https://github.com/user-attachments/assets/f6628595-d453-4209-b53e-0b60619ff8a7" width="500">
 
 ---
 
@@ -463,6 +469,12 @@ This matches **known results**:
 
 *(In a Mathematica notebook or Python script, one would see `ϕ(x,t)` approaching a function `Φ(x-2t)`. )*  
 
+
+<img src="https://github.com/user-attachments/assets/2cf92fd3-9784-45cb-9a20-712875e39d89" width="500">
+
+
+<img src="https://github.com/user-attachments/assets/401b7016-c0a3-48c9-b23f-4014668a022b" width="500">
+
 ---
 
 ### **Neuroscience Connection: Neural Activation Spreading**  
@@ -601,6 +613,12 @@ for the **transition**.
 This matches **physical intuition**:
 - **Larger D** (*more diffusion*) → Thicker, smoother transition.
 - **Larger a** (*steeper potential well*) → Sharper transition.
+
+<img src="https://github.com/user-attachments/assets/0cbdbeef-d88f-41d6-ad32-756c324e5e87" width="500">
+
+
+<img src="https://github.com/user-attachments/assets/a9ff3734-0a60-427a-af9a-f8404f2b423f" width="500">
+
 
 ---
 
