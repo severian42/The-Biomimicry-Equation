@@ -24,9 +24,9 @@ Hamilton’s principle states that the actual evolution of a system renders the 
 
 ([Euler–Lagrange equation - Wikipedia](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=derivative%20%20is%20zero,generalized%20coordinates%2C%20and%20it%20is)).  
 
-In other words, the physical path is a stationary point (usually a minimum) of the action ([Euler–Lagrange equation - Wikipedia](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=derivative%20%20is%20zero,generalized%20coordinates%2C%20and%20it%20is)).  
+In other words, the physical path is a stationary point (usually a minimum) of the action.  
 
-This principle is remarkably general – it reproduces Newton’s laws for particles and has an analogous formulation for continuous fields ([Euler–Lagrange equation - Wikipedia](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=equations.%20In%20classical%20mechanics%20%2C,dynamics%20of%20a%20%2099)).  
+This principle is remarkably general – it reproduces Newton’s laws for particles and has an analogous formulation for continuous fields.  
 
 
 **Action Functional Setup:** Consider a continuous field `ϕ(x⃗,t)` defined over space `x⃗∈Ω` and time `t∈[t₀,t₁]`. We define the action as the space-time integral of a Lagrangian density `𝓛`:
@@ -388,7 +388,7 @@ This is **exactly the Fisher-KPP equation** ([KPP–Fisher equation - Wikipedia]
   ```
   c_min = 2√(rD)
   ```
-  ([KPP–Fisher equation - Wikipedia](https://en.wikipedia.org/wiki/KPP%E2%80%93Fisher_equation)),  
+   
   which can be found by a **stability analysis** of the wave front.
 
 ---
