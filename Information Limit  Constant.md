@@ -1,5 +1,6 @@
 ﻿# A Unified First-Principles Derivation of the Information Limit Constant
 
+### **Author: Beckett Dillon**
 
 ## 1. Foundational Principles and Axiomatic Framework
 
